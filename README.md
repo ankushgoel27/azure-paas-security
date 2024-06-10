@@ -4,7 +4,7 @@ This reference design implements a hub-and-spoke networking model with all data 
 
 <img src="images/diagram-network.png" alt="Network diagram"/>
 
-## Deployment
+## Deployment test
 
 This reference environment includes two main areas that are deployed in the target subscription.
 
